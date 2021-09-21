@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://wedodgecn.github.io/haunted-halloween-maze/](https://wedodgecn.github.io/haunted-halloween-maze/)
+> Open this page at [https://arcade.makecode.com/#tutorial:https://makecode.com/_edJfkPLMcEPy](https://arcade.makecode.com/#tutorial:https://makecode.com/_edJfkPLMcEPy)
 
 # Haunted Maze!
 
